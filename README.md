@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6366F1&height=120&section=header&text=Prannavakhanth%20A&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Patent%20Holder%20|%20Research%20Enthusiast&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6366F1&height=120&section=header&text=Prannavakhanth%20A&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Research%20Enthusiast&descAlignY=55&descSize=18" />
 </div>
 
 <h2 align="left">Hi 👋! My name is Prannavakhanth and I'm an AI/ML Engineer, from Chennai, India</h2>
