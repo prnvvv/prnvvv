@@ -30,7 +30,7 @@
 ---
 
 <div style="position:sticky; top:0; z-index:100; text-align:center;">
-  <img src="https://raw.githubusercontent.com/prnvvv/prnvvv/output/snake.svg" alt="Snake animation" />
+  <img src="snake.svg" alt="Snake animation" width="200"/>
 </div>
 
 ---
