@@ -1,4 +1,4 @@
-<div align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/fb3a6010-b340-48d7-8aa3-d472bf516bec" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6366F1&height=120&section=header&text=Prannavakhanth%20A&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Research%20Enthusiast&descAlignY=55&descSize=18" />
 </div>
 
@@ -140,10 +140,6 @@ class PrannavakanthAI:
 ---
 
 ### 🚀 Featured Projects
-<details>
-<summary><b>🔍 Click to explore my complete project portfolio!</b></summary>
-<br>
-
 <table>
 <thead>
   <tr>
@@ -205,8 +201,6 @@ class PrannavakanthAI:
 </tbody>
 </table>
 
-</details>
-
 ---
 
 ### 🏆 Achievements & Recognition
@@ -228,14 +222,14 @@ class PrannavakanthAI:
       <br><small>CropCore AI System</small>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/research.png" width="60"/>
-      <br><b>Research Intern</b>
-      <br><small>IIT Roorkee</small>
+      <img src="[https://img.icons8.com/color/96/000000/research.png](https://www.bing.com/images/search?view=detailV2&ccid=SGvU%2bZ5p&id=D2B6D13282C35A005A096AB2C1E0F570E5B13D76&thid=OIP.SGvU-Z5pV41NcJ39NQMD6QHaHa&mediaurl=https%3a%2f%2fcdn-icons-png.flaticon.com%2f512%2f1435%2f1435738.png&exph=512&expw=512&q=patent+png&FORM=IRPRST&ck=8D67E616E05A7B3DE3AF284CFCA499C9&selectedIndex=11&itb=1)" width="60"/>
+      <br><b>Project Intern</b>
+      <br><small>IIT Ropar</small>
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/leadership.png" width="60"/>
-      <br><b>Club President</b>
-      <br><small>Open Source Programming</small>
+      <br><b>Chairperson</b>
+      <br><small>Open Source Programming Club</small>
     </td>
   </tr>
 </table>
