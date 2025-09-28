@@ -1,0 +1,50 @@
+name: Generate Snake Animation 🐍
+
+on:
+  # Runs automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows manual triggering from GitHub Actions tab
+  workflow_dispatch:
+  
+  # Runs on every push to main branch
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: 🎯 Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Generate snake animation (GitHub Dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=667eea&color_dots=#764ba2,#f093fb,#667eea,#a8e6cf,#ffd93d
+            dist/snake-light.svg?palette=github&color_snake=667eea&color_dots=#764ba2,#f093fb,#667eea,#a8e6cf,#ffd93d
+      
+      - name: 🚀 Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update snake animation [automated]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📊 Generate contribution summary
+        run: |
+          echo "🎉 Snake animation updated successfully!"
+          echo "📅 Generated at: $(date)"
+          echo "🔗 View at: https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/snake.svg"
