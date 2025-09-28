@@ -82,8 +82,12 @@ class PrannavakanthAI:
   <img src="https://streak-stats.demolab.com/?user=prnvvv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B47&currStreakLabel=2E9EF7" alt="GitHub streak stats" />
 </div>
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🛠️ Tech Arsenal
