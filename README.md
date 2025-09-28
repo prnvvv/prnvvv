@@ -222,7 +222,7 @@ class PrannavakanthAI:
       <br><small>CropCore AI System</small>
     </td>
     <td align="center" width="200">
-      <img src="https://www.bing.com/images/search?view=detailV2&ccid=SGvU%2bZ5p&id=D2B6D13282C35A005A096AB2C1E0F570E5B13D76&thid=OIP.SGvU-Z5pV41NcJ39NQMD6QHaHa&mediaurl=https%3a%2f%2fcdn-icons-png.flaticon.com%2f512%2f1435%2f1435738.png&exph=512&expw=512&q=patent+png&FORM=IRPRST&ck=8D67E616E05A7B3DE3AF284CFCA499C9&selectedIndex=11&itb=1" width="60"/>
+      <img src="" width="60"/>
       <br><b>Project Intern</b>
       <br><small>IIT Ropar</small>
     </td>
