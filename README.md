@@ -221,12 +221,6 @@ class PrannavakanthAI:
 
 ---
 
-## ⚡ Fun Facts
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" alt="Quote" />
-</div>
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
