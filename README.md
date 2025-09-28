@@ -308,7 +308,7 @@ class PrannavakanthAI:
 <br clear="both">
 
 <div style="position:sticky; top:0; z-index:100; text-align:center;">
-  <img src="assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
