@@ -1,10 +1,6 @@
-# Hi 👋! I'm Prannavakhanth A
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6366F1&height=120&section=header&text=Prannavakhanth%20A&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Research%20Enthusiast&descAlignY=55&descSize=18" />
 </div>
-
-## AI/ML Engineer from Chennai, India 🇮🇳
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%9A%80+Building+Intelligent+Solutions;%F0%9F%94%AC+Research+Intern+%40+IIT+Roorkee;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Club+President;%F0%9F%8C%9F+Turning+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
