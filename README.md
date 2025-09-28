@@ -27,16 +27,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 🧠 About Me
 
 ```python
@@ -70,6 +60,7 @@ class PrannavakanthAI:
     def get_passion(self):
         return "Transforming complex problems into elegant AI solutions! 🤖✨"
 ```
+---
 
 ## 📊 GitHub Stats
 
@@ -81,6 +72,16 @@ class PrannavakanthAI:
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=prnvvv&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B47&currStreakLabel=2E9EF7" alt="GitHub streak stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prnvvv&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prnvvv&theme=tokyonight" alt="contribution graph" />
+</div>
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -108,10 +109,6 @@ class PrannavakanthAI:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
@@ -180,18 +177,6 @@ class PrannavakanthAI:
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Detailed GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prnvvv&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prnvvv&theme=tokyonight" alt="contribution graph" />
-</div>
 
 ---
 
