@@ -1,38 +1,51 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
+    permissions: # Add permissions block
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: prnvvv
           outputs: |
-            snake.svg
-            snake-dark.svg?palette=github-dark
-            snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          snake_color: '#2E9EF7'
+          commit_message: "Generate snake animation"
 
-      - name: Commit & Push snake
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add snake.svg
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
-          git push
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  display:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display Snake
+        run: |
+          echo '<div align="center">' >> README.md
+          echo '  <picture>' >> README.md
+          echo '    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake-dark.svg">' >> README.md
+          echo '    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake.svg">' >> README.md
+          echo '    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-contribution-grid-snake.svg">' >> README.md
+          echo '  </picture>' >> README.md
+          echo '</div>' >> README.md
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "docs: update snake display"
+          git push
