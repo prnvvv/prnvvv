@@ -130,42 +130,6 @@ class PrannavakanthAI:
 ---
 
 ### 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 AutCore</h3>
-        <div align="center">  
-          <a href="https://github.com/prnvvv/AutCore" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=prnvvv&repo=AutCore&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AutCore" />
-          </a>
-        </div>
-        <p><strong>AI-driven autism screening using computer vision + speech analysis</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌾 CropCore (Patent Published)</h3>
-        <div align="center">
-          <a href="https://github.com/prnvvv/CropCore" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=prnvvv&repo=CropCore&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CropCore" />
-          </a>
-        </div>
-        <p><strong>AI farming assistant with disease detection & yield prediction</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <details>
 <summary><b>🔍 Click to explore my complete project portfolio!</b></summary>
 <br>
@@ -308,14 +272,6 @@ class PrannavakanthAI:
 
 ---
 
-### 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
-</div>
-
----
-
 ### ⚡ Fun Fact
 
 <div align="center">
@@ -345,27 +301,6 @@ class PrannavakanthAI:
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🎯 Life Philosophy</h3>
-  <blockquote>
-    <p><em>"Code like poetry, debug like a detective, and innovate like there's no tomorrow."</em></p>
-    <p><strong>- My approach to tech and life 🚀</strong></p>
-  </blockquote>
-</div>
-
-<div align="center">
-  <details>
-    <summary><b>🎲 Random Facts About Me (Click to reveal!)</b></summary>
-    <br>
-    <p>🏏 Former cricket player who traded boundaries for debugging boundaries</p>
-    <p>🧠 I can solve a Rubik's cube faster than I can fix merge conflicts</p>
-    <p>🌙 Night owl who believes the best code is written after midnight</p>
-    <p>🎵 My code compiles better when listening to lo-fi hip hop</p>
-    <p>🍕 Pizza is my debugging rubber duck (it's a great listener)</p>
-    <p>🤖 I once spent 3 hours optimizing code that saved 2 milliseconds (worth it!)</p>
-  </details>
 </div>
 
 ---
