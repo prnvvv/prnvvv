@@ -5,7 +5,7 @@
 <h2 align="left">Hi 👋! My name is Prannavakhanth and I'm an AI/ML Engineer, from Chennai, India</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%9A%80+Building+Intelligent+Solutions;%F0%9F%8F%86+HackHub'25+Winner+%7C+%F0%9F%93%9C+Patent+Holder;%F0%9F%94%AC+Research+Intern+%40+IIT+Roorkee;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Club+President;%F0%9F%8C%9F+Turning+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%9A%80+Building+Intelligent+Solutions;%F0%9F%94%AC+Research+Intern+%40+IIT+Roorkee;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Club+President;%F0%9F%8C%9F+Turning+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
