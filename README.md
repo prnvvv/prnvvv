@@ -355,19 +355,6 @@ OS: Linux, Windows, macOS
   </blockquote>
 </div>
 
-<div align="center">
-  <details>
-    <summary><b>🎲 Random Facts About Me (Click to reveal!)</b></summary>
-    <br>
-    <p>🏏 Former cricket player who traded boundaries for debugging boundaries</p>
-    <p>🧠 I can solve a Rubik's cube faster than I can fix merge conflicts</p>
-    <p>🌙 Night owl who believes the best code is written after midnight</p>
-    <p>🎵 My code compiles better when listening to lo-fi hip hop</p>
-    <p>🍕 Pizza is my debugging rubber duck (it's a great listener)</p>
-    <p>🤖 I once spent 3 hours optimizing code that saved 2 milliseconds (worth it!)</p>
-  </details>
-</div>
-
 ---
 
 <div align="center">
