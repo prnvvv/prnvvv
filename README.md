@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%9A%80+Building+Intelligent+Solutions;%F0%9F%94%AC+Research+Intern+%40+IIT+Roorkee;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Club+President;%F0%9F%8C%9F+Turning+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+%F0%9F%9A%80+Building+Intelligent+Solutions;%F0%9F%94%AC+Research+Intern+%40+IIT+Ropar;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Programming+Club+Chairperson;%F0%9F%8C%9F+Turning+Ideas+into+Intelligent+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -168,12 +168,12 @@ class PrannavakanthAI:
     <td align="center" width="200">
       🔬
       <br><b>Research Intern</b>
-      <br><small>IIT Roorkee</small>
+      <br><small>IIT Ropar</small>
     </td>
     <td align="center" width="200">
       👨‍💻
-      <br><b>Club President</b>
-      <br><small>Open Source Programming</small>
+      <br><b>Chairperson</b>
+      <br><small>Open Source Programming Club</small>
     </td>
   </tr>
 </table>
