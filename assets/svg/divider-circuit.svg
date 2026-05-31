@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1000 40" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="40" fill="#0a1628"/>
+  <g fill="none" stroke-width="1.5">
+    <path d="M0,20 L150,20 L180,10 L220,30 L250,10 L280,30 L320,20 L1000,20" stroke="#00d4ff" opacity="0.6">
+      <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dasharray" values="10,5;5,10;10,5" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#00d4ff" opacity="0.8">
+    <circle cx="180" cy="10" r="3"/><circle cx="220" cy="30" r="3"/><circle cx="250" cy="10" r="3"/>
+    <circle cx="280" cy="30" r="3"/><circle cx="320" cy="20" r="3"/>
+  </g>
+  <g fill="#10b981" opacity="0.5">
+    <circle cx="150" cy="20" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="20" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="20" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a855f7" opacity="0.4">
+    <circle cx="100" cy="20" r="1.5"/><circle cx="400" cy="20" r="1.5"/><circle cx="600" cy="20" r="1.5"/><circle cx="850" cy="20" r="1.5"/>
+  </g>
+</svg>

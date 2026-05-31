@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1000 60" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bach-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="20%" stop-color="#0f1e3a"/>
+      <stop offset="80%" stop-color="#0f1e3a"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="60" fill="url(#bach-bg)"/>
+  <rect x="0" y="57" width="1000" height="3" fill="#f59e0b" opacity="0.3"/>
+  <text x="30" y="38" font-family="monospace" font-size="16" fill="#f59e0b" opacity="0.4">~/dashboard/achievements</text>
+  <g transform="translate(240,20)">
+    <rect x="0" y="0" width="560" height="1" fill="#f59e0b" opacity="0.2"/>
+  </g>
+</svg>

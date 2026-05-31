@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1000 120" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ft-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#05080f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" fill="url(#ft-bg)"/>
+  <g fill="none" stroke-width="1" opacity="0.2">
+    <path d="M0,40 Q100,20 200,40 T400,40 T600,40 T800,40 T1000,40" stroke="#00d4ff"/>
+    <path d="M0,60 Q120,40 250,60 T450,60 T650,60 T850,60 T1000,60" stroke="#6366f1"/>
+    <path d="M0,80 Q80,60 180,80 T380,80 T580,80 T780,80 T1000,80" stroke="#a855f7"/>
+  </g>
+  <g fill="#00d4ff" opacity="0.3">
+    <circle cx="100" cy="90" r="2"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="70" r="1.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="85" r="2"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="65" r="1.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
