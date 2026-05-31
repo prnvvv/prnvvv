@@ -1,52 +1,72 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3&section=header" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prannavakhanth%20A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20·%20Computer%20Vision%20·%20LLM%20Systems%20·%20Full%20Stack&descSize=15&descAlignY=62&descColor=a0a0cc" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,60:00d4ff10,100:000000&height=220&section=header&text=PRANNAVAKHANTH%20A&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=AI%20ENGINEER%20%2F%2F%20COMPUTER%20VISION%20%2F%2F%20LLM%20SYSTEMS%20%2F%2F%20RESEARCH&descSize=13&descAlignY=64&descColor=4a9eff&fontStyle=bold" />
 </div>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Building intelligent systems that solve real-world problems         │
-│  Patent-published researcher. Hackathon winner. Open source leader. │
-└─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM  :  AI Engineering Portfolio — Active                               ║
+║  FOCUS   :  Computer Vision · Large Language Models · Agricultural ML       ║
+║  STATUS  :  Patent Published · Research Active · Open Source Contributing   ║
+║  BASE    :  VIT Chennai, Tamil Nadu, India                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prannavakhanth_A-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prannavakhanth-a-59b98228a/)
-[![Email](https://img.shields.io/badge/Email-prannavakhanth12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prannavakhanth12@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-prnvkhanth-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/prnvkhanth)
-[![LeetCode](https://img.shields.io/badge/LeetCode-prnv12__-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/prnv12__)
-[![Profile Views](https://komarev.com/ghpvc/?username=prnvvv&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/prnvvv)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Prannavakhanth_A-00d4ff?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://www.linkedin.com/in/prannavakhanth-a-59b98228a/)&nbsp;
+[![Gmail](https://img.shields.io/badge/CONTACT-prannavakhanth12@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](mailto:prannavakhanth12@gmail.com)&nbsp;
+[![Kaggle](https://img.shields.io/badge/KAGGLE-prnvkhanth-00d4ff?style=flat-square&logo=kaggle&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://kaggle.com/prnvkhanth)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-prnv12__-00d4ff?style=flat-square&logo=leetcode&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://www.leetcode.com/prnv12__)&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=prnvvv&style=flat-square&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/prnvvv)
 
 </div>
+
+<br>
 
 ---
 
-## ⚡ What I Build
+<div align="center">
 
-<table>
+### `[ ENGINEERING PROFILE ]`
+
+</div>
+
+<table align="center" width="860">
 <tr>
-<td width="50%" valign="top">
+<td width="430" valign="top">
 
-**Computer Vision Systems**
-Real-time detection, tracking, and analysis pipelines. From pose estimation to disease classification — if it involves visual intelligence, I've built it.
+**`EDUCATION`**
+```
+B.Tech Computer Science & Engineering
+VIT Chennai  ·  CGPA: 9.02 / 10.0
+```
 
-**LLM-Powered Applications**
-Context-aware chatbots, document intelligence, and AI-assisted career tooling. Focused on production-grade deployment with FastAPI backends.
+**`RESEARCH`**
+```
+Project Intern — IIT Ropar
+Domain: Agricultural ML & Smart Automation
+Output: Patent Published (CropCore System)
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="430" valign="top">
 
-**Agricultural AI** *(Patent Published)*
-ML-driven crop disease detection and smart farming assistance developed during research at IIT Ropar. Bridging AI with real-world food security challenges.
-
-**Scalable Backend Systems**
-Intrusion detection, deadlock resolution, financial modeling. Engineering solutions where correctness and performance both matter.
+**`RECOGNITION`**
+```
+[1]  HackHub'25 Winner     →  IEEE & GitHub Hackathon
+[2]  Patent Published      →  CropCore AI System
+[3]  Research Intern       →  IIT Ropar
+[4]  Chairperson           →  OSPC, VIT Chennai
+[5]  State Athlete         →  TNCA Cricket U-14 / U-16
+```
 
 </td>
 </tr>
@@ -54,213 +74,323 @@ Intrusion detection, deadlock resolution, financial modeling. Engineering soluti
 
 ---
 
-## 🏗️ Engineering Snapshot
+<div align="center">
+
+### `[ SYSTEM ARCHITECTURE :: TECHNICAL DOMAINS ]`
+
+</div>
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🎓 **BTech CSE — VIT Chennai** | CGPA: **9.02 / 10.0** |
-| 🔬 **Research Intern — IIT Ropar** | Agricultural ML & Smart Automation |
-| 📜 **Patent Published** | CropCore — AI Farming Assistant |
-| 🏆 **HackHub'25 Winner** | IEEE & GitHub Hackathon |
-| 👨‍💻 **Chairperson — OSPC, VIT** | Open Source Programming Club |
+**`── INTELLIGENCE LAYER ──`**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=00d4ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00d4ff)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=00d4ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=00d4ff)
+![Hugging Face](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=00d4ff)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=00d4ff)
+![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=00d4ff)
+
+**`── DATA LAYER ──`**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00d4ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00d4ff)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=00d4ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00d4ff)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=00d4ff)
+
+**`── SYSTEMS LAYER ──`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00d4ff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00d4ff)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00d4ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00d4ff)
+
+**`── INTERFACE LAYER ──`**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00d4ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00d4ff)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+### `[ MISSION FILES :: ACTIVE PROJECTS ]`
+
+</div>
 
 <details>
-<summary><b>🧠 AutCore — AI Autism Screening System</b> &nbsp;|&nbsp; <code>Computer Vision · Speech Analysis · TensorFlow · FastAPI</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 001 &nbsp;·&nbsp; AUTCORE &nbsp;·&nbsp; AI Autism Screening System</b> &nbsp;&nbsp;<code>LIVE</code></summary>
 
 <br>
 
-**Problem:** Early autism screening is expensive, inaccessible, and often delayed — leaving families without timely diagnosis and support.
+```
+CLASSIFICATION  :  Computer Vision + Multimodal AI
+DOMAIN          :  Healthcare Diagnostics
+STATUS          :  Deployed
+```
 
-**Solution:** An AI-driven screening pipeline combining computer vision (facial landmark tracking, eye gaze estimation) with speech pattern analysis to surface behavioral indicators associated with autism spectrum characteristics.
+**PROBLEM STATEMENT**
+Early autism screening in India is bottlenecked by specialist availability. Families in Tier-2 and Tier-3 cities wait months for a clinical assessment.
 
-**Architecture highlights:**
-- Dual-modality analysis: visual + audio processed in parallel pipelines
-- FastAPI backend serving model inference via REST endpoints
-- OpenCV for real-time video frame processing
-- TensorFlow classification models fine-tuned on behavioral data
+**ENGINEERING APPROACH**
+Dual-modality pipeline: computer vision analyzes facial landmarks and eye gaze patterns simultaneously with speech rhythm and pattern analysis. Both streams feed a classification model trained on behavioral indicators.
 
-**Status:** 🚀 Live
+**TECHNICAL ARCHITECTURE**
+```
+[Camera Input] ──► [OpenCV Frame Pipeline]
+                         │
+               ┌─────────┴──────────┐
+               ▼                    ▼
+        [Gaze Estimator]    [Speech Analyzer]
+               │                    │
+               └────────┬───────────┘
+                         ▼
+              [TensorFlow Classifier]
+                         │
+                         ▼
+               [FastAPI REST Layer]
+                         │
+                         ▼
+                  [Result Interface]
+```
 
+**STACK** &nbsp;·&nbsp; `Python` `TensorFlow` `OpenCV` `FastAPI` `Computer Vision` `Speech Analysis`
+
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>🌾 CropCore — AI Farming Assistant</b> &nbsp;|&nbsp; <code>PyTorch · YOLO · React · Computer Vision</code> &nbsp;·&nbsp; 📜 Patent Published</summary>
+<summary><b>&nbsp;▸&nbsp; FILE 002 &nbsp;·&nbsp; CROPCORE &nbsp;·&nbsp; AI Farming Assistant</b> &nbsp;&nbsp;<code>PATENT PUBLISHED</code></summary>
 
 <br>
 
-**Problem:** Smallholder farmers lack access to expert agronomic advice and early crop disease detection, leading to significant yield loss.
+```
+CLASSIFICATION  :  Computer Vision + Conversational AI
+DOMAIN          :  Agricultural Technology / Food Security
+STATUS          :  Patent Published · IIT Ropar Research Output
+```
 
-**Solution:** A patent-published AI system combining YOLO-based disease detection with a conversational farming assistant. Developed during research internship at IIT Ropar.
+**PROBLEM STATEMENT**
+Crop disease spreads silently. Smallholder farmers in India lose significant yields annually due to late or incorrect identification. Expert agronomists are inaccessible at field level.
 
-**Architecture highlights:**
-- YOLO model for real-time crop disease localization and classification
-- React frontend enabling field workers to photograph crops and receive instant diagnosis
-- Contextual recommendation engine for treatment and prevention
-- Designed for low-bandwidth rural deployment
+**ENGINEERING APPROACH**
+YOLO-based detection model identifies and localizes crop diseases from field photographs in real time. A conversational assistant layer provides actionable treatment recommendations based on detection output.
 
-**Status:** 📜 Patent Published
+**TECHNICAL ARCHITECTURE**
+```
+[Field Photo Input]
+         │
+         ▼
+[YOLO Detection Engine]
+         │
+  ┌──────┴──────┐
+  ▼             ▼
+[Disease     [Location
+ Classifier]  Mapper]
+  │
+  ▼
+[Recommendation Engine]
+         │
+         ▼
+  [React Frontend]  ←──  [Low-Bandwidth Optimized]
+```
 
+**STACK** &nbsp;·&nbsp; `PyTorch` `YOLO` `Computer Vision` `React` `Python` `FastAPI`
+
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>💼 CareerTrack — AI Career Platform</b> &nbsp;|&nbsp; <code>LLMs · NLP · Python · Machine Learning</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 003 &nbsp;·&nbsp; CAREERTRACK &nbsp;·&nbsp; AI Career Intelligence Platform</b> &nbsp;&nbsp;<code>ACTIVE DEVELOPMENT</code></summary>
 
 <br>
 
-**Problem:** Job seekers struggle to align resumes with role-specific requirements and ATS systems, reducing callback rates despite strong qualifications.
+```
+CLASSIFICATION  :  NLP + Large Language Models
+DOMAIN          :  Career Technology / Human Capital
+STATUS          :  Active Development
+```
 
-**Solution:** An LLM-powered career platform that analyzes job descriptions, benchmarks resumes against them, and generates targeted optimization recommendations.
+**PROBLEM STATEMENT**
+Resume-to-JD misalignment is the primary reason qualified candidates fail ATS screening. The gap is semantic, not qualitative.
 
-**Architecture highlights:**
-- Large language model integration for semantic resume-JD matching
-- NLP pipeline for skill extraction and gap analysis
-- ML scoring model for role-fit probability estimation
+**ENGINEERING APPROACH**
+Semantic matching pipeline: LLM extracts skill vectors from job descriptions and resumes independently, then computes alignment score with gap analysis. Optimization layer generates targeted revision recommendations.
 
-**Status:** ⚡ Active Development
+**STACK** &nbsp;·&nbsp; `Python` `LLMs` `NLP` `Transformers` `Machine Learning` `FastAPI`
 
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>🔒 CloudGuard — ML Intrusion Detection</b> &nbsp;|&nbsp; <code>Python · Scikit-learn · AWS · Cybersecurity</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 004 &nbsp;·&nbsp; CLOUDGUARD &nbsp;·&nbsp; ML Intrusion Detection System</b> &nbsp;&nbsp;<code>IN PROGRESS</code></summary>
 
 <br>
 
-**Problem:** Traditional signature-based intrusion detection systems miss novel attack patterns in cloud environments.
+```
+CLASSIFICATION  :  Anomaly Detection / Cybersecurity ML
+DOMAIN          :  Cloud Security
+STATUS          :  In Progress
+```
 
-**Solution:** An ML-based anomaly detection system designed for AWS-hosted infrastructure, identifying suspicious behavioral patterns that rule-based systems cannot capture.
+**ENGINEERING APPROACH**
+Behavioral feature engineering from AWS access logs. Ensemble classifiers score anomalous access patterns. Designed to catch novel attack vectors that signature-based systems miss.
 
-**Architecture highlights:**
-- Behavioral feature engineering from cloud access logs
-- Ensemble ML classifiers for anomaly scoring
-- Designed for integration into AWS security event pipelines
+**STACK** &nbsp;·&nbsp; `Python` `Scikit-learn` `AWS` `Cybersecurity` `Ensemble ML`
 
-**Status:** 🔧 In Progress
-
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>👁️ Vision Systems — Real-Time Detection Suite</b> &nbsp;|&nbsp; <code>MediaPipe · OpenCV · Python</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 005 &nbsp;·&nbsp; VISION SYSTEMS &nbsp;·&nbsp; Real-Time Detection Suite</b> &nbsp;&nbsp;<code>COMPLETED</code></summary>
 
 <br>
 
-Multi-module real-time computer vision system supporting face detection, hand landmark tracking, full-body pose estimation, and gesture-based control interfaces. Built as a modular framework — each detection pipeline is independently deployable.
+```
+CLASSIFICATION  :  Computer Vision / Multimodal Detection
+DOMAIN          :  Human-Computer Interaction
+STATUS          :  Completed
+```
 
-**Status:** ✅ Completed
+Modular real-time pipeline: face detection, hand landmark tracking, full-body pose estimation, and gesture-based control interfaces. Each detection module is independently deployable. Built on MediaPipe for sub-50ms latency on consumer hardware.
 
+**STACK** &nbsp;·&nbsp; `MediaPipe` `OpenCV` `Python` `Real-Time Processing`
+
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>📈 Stock Analyzer — ML Financial Tool</b> &nbsp;|&nbsp; <code>Time Series · Pandas · Scikit-learn · Plotly</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 006 &nbsp;·&nbsp; STOCK ANALYZER &nbsp;·&nbsp; ML Financial Intelligence Tool</b> &nbsp;&nbsp;<code>COMPLETED</code></summary>
 
 <br>
 
-Time-series ML model for financial market analysis and price movement prediction. Includes interactive Plotly dashboards for visualizing model outputs and historical performance.
+```
+CLASSIFICATION  :  Time Series ML / Financial Analytics
+DOMAIN          :  Quantitative Finance
+STATUS          :  Completed
+```
 
-**Status:** ✅ Completed
+Time-series ML pipeline for financial market analysis and price movement modeling. Plotly-powered interactive dashboards for model output visualization and historical backtesting.
 
+**STACK** &nbsp;·&nbsp; `Python` `Pandas` `Scikit-learn` `Plotly` `Time Series Analysis`
+
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>⚙️ DeadlockAnalyzer — Database Deadlock Resolver</b> &nbsp;|&nbsp; <code>Java · Algorithms · Database Systems</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 007 &nbsp;·&nbsp; DEADLOCK ANALYZER &nbsp;·&nbsp; Database Deadlock Resolution Engine</b> &nbsp;&nbsp;<code>COMPLETED</code></summary>
 
 <br>
 
-Graph-based system for detecting and resolving transactional deadlocks in database environments. Implements cycle detection on wait-for graphs and automated resolution strategies.
+```
+CLASSIFICATION  :  Systems Engineering / Database Theory
+DOMAIN          :  Database Systems
+STATUS          :  Completed
+```
 
-**Status:** ✅ Completed
+Graph-theoretic deadlock detection and resolution for transactional database systems. Implements cycle detection on wait-for graphs with automated resolution strategy selection.
 
+**STACK** &nbsp;·&nbsp; `Java` `Graph Algorithms` `Database Systems`
+
+<br>
 </details>
 
 ---
 
 <details>
-<summary><b>🤖 AI Chatbot — Context-Aware Conversational System</b> &nbsp;|&nbsp; <code>Transformers · NLP · Python · FastAPI</code></summary>
+<summary><b>&nbsp;▸&nbsp; FILE 008 &nbsp;·&nbsp; AI CHATBOT &nbsp;·&nbsp; Context-Aware Conversational System</b> &nbsp;&nbsp;<code>LIVE</code></summary>
 
 <br>
 
-Multi-turn conversational AI with persistent context window management, built on transformer architectures. FastAPI backend with REST endpoints for integration into any frontend or service layer.
+```
+CLASSIFICATION  :  NLP / Transformer Architecture
+DOMAIN          :  Conversational AI
+STATUS          :  Deployed
+```
 
-**Status:** 🚀 Live
+Multi-turn conversational system with persistent context window management. Transformer backbone with FastAPI serving layer. Designed for integration into any frontend or service architecture via REST.
 
+**STACK** &nbsp;·&nbsp; `Transformers` `NLP` `Python` `FastAPI`
+
+<br>
 </details>
 
 ---
-
-## 🛠️ Technical Domains
-
-<table>
-<tr><td><b>AI / ML</b></td><td>TensorFlow · PyTorch · Scikit-learn · YOLO · Transformers</td></tr>
-<tr><td><b>Computer Vision</b></td><td>OpenCV · MediaPipe · Real-Time Detection · Pose Estimation</td></tr>
-<tr><td><b>NLP / LLMs</b></td><td>Transformers · Context Management · Semantic Matching · NLP Pipelines</td></tr>
-<tr><td><b>Data Science</b></td><td>Pandas · NumPy · Plotly · Time Series · Feature Engineering</td></tr>
-<tr><td><b>Languages</b></td><td>Python · Java · C++ · C · JavaScript · R · SQL</td></tr>
-<tr><td><b>Backend</b></td><td>FastAPI · REST APIs · System Design</td></tr>
-<tr><td><b>Frontend</b></td><td>React · HTML5 · CSS3 · JavaScript</td></tr>
-<tr><td><b>DevOps</b></td><td>Docker · GitHub Actions · AWS</td></tr>
-<tr><td><b>Databases</b></td><td>MySQL · SQL</td></tr>
-</table>
-
----
-
-## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prnvvv&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnvvv&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" height="165" />
+
+### `[ ANALYTICS :: SYSTEM METRICS ]`
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=prnvvv&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=7c6ab0" />
+<img src="https://github-readme-stats.vercel.app/api?username=prnvvv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&ring_color=00d4ff" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnvvv&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prnvvv&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="https://streak-stats.demolab.com/?user=prnvvv&hide_border=true&background=0d1117&ring=00d4ff&fire=4a9eff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=4a4a6a&stroke=1a1a2e" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prnvvv&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff20&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" />
 </div>
 
 ---
 
-## 🐍 Contribution Map
+<div align="center">
+
+### `[ CONTRIBUTION MAP ]`
+
+</div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-snake.svg" />
+    <img alt="Contribution map" src="https://raw.githubusercontent.com/prnvvv/prnvvv/output/github-snake.svg" />
   </picture>
 </div>
 
 ---
 
-## 🏆 Recognition
-
 <div align="center">
 
+### `[ RECOGNITION LOG ]`
+
 ```
-🏆  HackHub'25 Winner          →  IEEE & GitHub Hackathon
-📜  Patent Published            →  CropCore AI Farming Assistant
-🔬  Research Intern             →  IIT Ropar, Agricultural ML
-👨‍💻  Chairperson                 →  Open Source Programming Club, VIT Chennai
-🏏  State-Level Athlete         →  TNCA Cricket, U-14 & U-16
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   01  ██  HackHub'25          IEEE & GitHub Hackathon Winner     │
+│   02  ██  Patent Published    CropCore AI Farming System         │
+│   03  ██  Research Intern     IIT Ropar · Agricultural ML        │
+│   04  ██  Chairperson         Open Source Programming Club       │
+│   05  ██  State Athlete       TNCA Cricket · U-14 & U-16         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -269,12 +399,21 @@ Multi-turn conversational AI with persistent context window management, built on
 
 <div align="center">
 
-*Open to research collaborations, AI/ML engineering roles, and open source contributions.*
-<br>
-**[prannavakhanth12@gmail.com](mailto:prannavakhanth12@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/prannavakhanth-a-59b98228a/)**
+### `[ CONTACT GATEWAY ]`
+
+```
+OPEN TO:  Research Collaborations  ·  AI/ML Engineering Roles
+          Internship Opportunities  ·  Open Source Contributions
+```
+
+[![Email](https://img.shields.io/badge/INITIATE_CONTACT-prannavakhanth12@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](mailto:prannavakhanth12@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PROFILE-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://www.linkedin.com/in/prannavakhanth-a-59b98228a/)
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,70:00d4ff08,100:000000&height=100&section=footer&text=&fontColor=00d4ff" />
 </div>
