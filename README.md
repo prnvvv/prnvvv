@@ -136,11 +136,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prnvvv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117&icon_color=00D4FF" height="175" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnvvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=prnvvv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF&sideLabels=6366F1" alt="streak" />
 </div>
 
@@ -560,16 +555,6 @@
 </table>
 
 <br/>
-
-<h3>📄 Active Research</h3>
-<table>
-  <tr>
-    <td><b>SSL-RUL</b></td>
-    <td>Self-Supervised Predictive Maintenance</td>
-    <td><b>🔍 Under Review</b></td>
-    <td>48.6% RMSE improvement on C-MAPSS</td>
-  </tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/prnvvv/prnvvv/main/assets/svg/divider-circuit.svg" width="100%" alt="divider" />
 
