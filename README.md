@@ -52,7 +52,7 @@
       <p>
         <img src="https://img.shields.io/badge/VIT_Chennai-B.Tech_CSE_2023--2027-00D4FF?style=flat-square"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/CGPA-9.06/10-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CGPA-9.08/10-10B981?style=flat-square"/>
       </p>
       <p>
         <b>📞</b> +91 80722 12612 &nbsp;·&nbsp; <b>📧</b> prannavakhanth12@gmail.com
@@ -97,7 +97,7 @@
       <br/>
       <h3>🏫 Education</h3>
       <table>
-        <tr><td><b>VIT Chennai</b></td><td>B.Tech CSE (2023–2027)</td><td><b>9.06/10</b></td></tr>
+        <tr><td><b>VIT Chennai</b></td><td>B.Tech CSE (2023–2027)</td><td><b>9.08/10</b></td></tr>
         <tr><td><b>P. S. Senior Secondary</b></td><td>Class XII (2023)</td><td><b>97.2%</b></td></tr>
         <tr><td><b>P. S. Senior Secondary</b></td><td>Class X (2021)</td><td><b>91.8%</b></td></tr>
       </table>
@@ -686,7 +686,7 @@
     </td>
     <td width="33%" align="center">
       <h3>🏅</h3>
-      <b>CGPA 9.06/10</b>
+      <b>CGPA 9.08/10</b>
       <br/><sub>VIT Chennai</sub>
     </td>
   </tr>
